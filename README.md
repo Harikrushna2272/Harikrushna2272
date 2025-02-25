@@ -3,16 +3,10 @@
 
 ## 🚀 About Me  
 
-## 📊 GitHub Stats  
+I am a 3rd-year Computer Science student at Nirma University, passionate about Artificial Intelligence, Machine Learning, IoT, and Algorithmic Trading. With a strong foundation in Deep Learning, NLP, and Computer Vision, I specialize in building AI-driven systems that solve real-world challenges.
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
-</p>
+Excited about AI innovation, smart automation, and financial analytics, I’m always open to collaborations and discussions. Let’s connect! 🚀
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
-</p>
 
 ---
 
