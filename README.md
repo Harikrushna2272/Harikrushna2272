@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Harikrushna Goti] 👋</h1>
+<h1 align="center">Hi, I'm Harikrushna Goti 👋</h1>
 
 
 ## 🚀 About Me  
