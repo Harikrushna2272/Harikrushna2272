@@ -8,15 +8,6 @@ I am a 3rd-year Computer Science student at Nirma University, passionate about A
 Excited about AI innovation, smart automation, and financial analytics, I’m always open to collaborations and discussions. Let’s connect! 🚀
 
 
----
-
-## 📫 Connect with Me  
-
-[![LinkedIn](https://www.linkedin.com/in/harikrushna-goti-4a87432b4/)  
-[![GitHub](https://github.com/Harikrushna2272)  
-
----
-
 💡 **"Keep learning, keep building, and let's shape the future of AI together!"** 🚀  
 
 
