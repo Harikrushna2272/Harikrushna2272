@@ -45,7 +45,9 @@ Alongside AI, I possess solid knowledge in IoT, Embedded Systems, Accounting and
 
 ## 📚 What I’m Learning
 - AWS
-- 
+- End to End Deployment of AI models
+- Fine-Tunning, quantizing Language models
+- Apply GRPO algorithms to Lnaguage models
 
 
 
