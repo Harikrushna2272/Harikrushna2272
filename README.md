@@ -26,6 +26,9 @@ Alongside AI, I possess solid knowledge in IoT, Embedded Systems, Accounting and
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-76B900?style=for-the-badge&logo=nltk&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFDD54?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -41,8 +44,8 @@ Alongside AI, I possess solid knowledge in IoT, Embedded Systems, Accounting and
 
 
 ## 📚 What I’m Learning
-- Data-Driven Strategy Building
-- Edge AI Systems
+- AWS
+- 
 
 
 
