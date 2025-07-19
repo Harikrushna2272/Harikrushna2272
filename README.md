@@ -47,7 +47,7 @@ Alongside AI, I possess solid knowledge in IoT, Embedded Systems, Accounting and
 - AWS
 - End to End Deployment of AI models
 - Fine-Tunning, quantizing Language models
-- Apply GRPO algorithms to Lnaguage models
+- Apply RL algorithms to Language models for post-training process
 
 
 
