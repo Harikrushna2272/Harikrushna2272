@@ -15,7 +15,7 @@ Alongside AI, I possess solid knowledge in IoT, Embedded Systems, Accounting and
 - Internet of Things (IoT)
 - Embedded Systems
 - Financial Analysis
-- Quantitative Trading
+- Quant Trader
 - Derivatives Pricing
 
 
